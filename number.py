@@ -1,20 +1,14 @@
-from enum import Enum
-
-
-class NumberKey(Enum):
-    COMPLEX = 0
-    FRACTION = 1
-    POLAR = 2
-
-
 class Number:
-    def __init__(self, key):
-        self.key = key
-
-    def read(self, array, i):
+    def read(self, array):
         pass
 
     def generate(self):
+        pass
+
+    def raw(self):
+        pass
+
+    def to_real(self):
         pass
 
     def __str__(self):

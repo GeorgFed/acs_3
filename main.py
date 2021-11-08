@@ -1,16 +1,31 @@
-# This is a sample Python script.
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+from container import *
+import sys
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+def main():
+    container = Container()
+    try:
+        if len(sys.argv) == 5 and sys.argv[1] == '-n' and sys.argv[2].isdecimal():
+            generate_random(container, amount=int(sys.argv[2]))
+        elif len(sys.argv) == 5 and sys.argv[1] == '-f':
+            file_commands(container, filepath=sys.argv[2])
+        else:
+            print('Something went wrong, please try again.')
+        container.write(sys.argv[3])
+        container.sort()
+        container.write(sys.argv[4])
+        # Для генерации тестов использовалась функция:
+        # container.test_write(sys.argv[3])
+    except Exception as error:
+        print(f'Something went wrong, error: {error}')
+
+def file_commands(container, filepath):
+    container.read(filepath)
 
 
-# Press the green button in the gutter to run the script.
+def generate_random(container, amount):
+    container.generate(amount=amount)
+
+
 if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    main()

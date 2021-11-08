@@ -1,0 +1,13 @@
+Container:
+Number of elements: 5
+Elements:
+0: Polar: angle = 4003, x = 9556, y = 9157
+Real: 13235.096712906936
+1: Complex: d = 8026, i = 9427
+Real: 12380.832161046364
+2: Complex: d = 4962, i = 9181
+Real: 10436.101043972312
+3: Polar: angle = 1032, x = 7418, y = 5478
+Real: 9221.453681497294
+4: Fraction: numerator = 4912, denominator = 6798
+Real: 0.7225654604295381
