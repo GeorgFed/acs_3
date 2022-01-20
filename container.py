@@ -78,9 +78,16 @@ class Container:
         self.storage.append(fraction.generate())
 
     def sort(self):
-        for i in range(len(self.storage) - 1):
-            max_index = i
-            for j in range(i + 1, len(self.storage)):
-                if self.storage[j].to_real() > self.storage[max_index].to_real():
-                    max_index = j
-            self.storage[max_index], self.storage[i] = self.storage[i], self.storage[max_index]
+        n = len(self.storage)
+        interval = n // 2
+        # Shell sort
+        while interval > 0:
+            for i in range(interval, n):
+                temp = self.storage[i]
+                j = i
+                while j >= interval and self.storage[j - interval].to_real() > temp.to_real():
+                    self.storage[j] = self.storage[j - interval]
+                    j -= interval
+
+                self.storage[j] = temp
+            interval //= 2

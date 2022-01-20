@@ -14,7 +14,7 @@ def main():
         container.write(sys.argv[3])
         container.sort()
         container.write(sys.argv[4])
-        # Для генерации тестов использовалась функция:
+        # Test Generator Function:
         # container.test_write(sys.argv[3])
     except Exception as error:
         print(f'Something went wrong, error: {error}')
