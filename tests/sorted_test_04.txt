@@ -1,43 +1,103 @@
 Container:
-Number of elements: 20
+Number of elements: 50
 Elements:
-0: Complex: d = 4534, i = 9660
-Real: 10671.117842100704
-1: Polar: angle = 5152, x = 3074, y = 9949
-Real: 10413.072409236382
-2: Polar: angle = 9553, x = 2079, y = 9931
-Real: 10146.280205080086
-3: Polar: angle = 3540, x = 9081, y = 4064
-Real: 9948.90230125917
-4: Polar: angle = 1704, x = 1961, y = 9454
-Real: 9655.238837025214
-5: Polar: angle = 2461, x = 5616, y = 7762
-Real: 9580.61062772097
-6: Complex: d = 9126, i = 2522
-Real: 9468.070553180305
-7: Complex: d = 4340, i = 8319
-Real: 9383.035809374278
-8: Complex: d = 5017, i = 7005
-Real: 8616.281912750997
-9: Complex: d = 7040, i = 875
-Real: 7094.1683797327505
-10: Complex: d = 6269, i = 2771
-Real: 6854.108402994513
-11: Polar: angle = 4796, x = 1148, y = 6731
-Real: 6828.196321137816
-12: Polar: angle = 1886, x = 4260, y = 1088
-Real: 4396.742430481913
-13: Complex: d = 398, i = 1551
-Real: 1601.251073379812
-14: Fraction: numerator = 2449, denominator = 43
-Real: 56.95348837209303
-15: Fraction: numerator = 8211, denominator = 4438
-Real: 1.8501577287066246
-16: Fraction: numerator = 8410, denominator = 7175
-Real: 1.1721254355400696
-17: Fraction: numerator = 7665, denominator = 7287
-Real: 1.0518731988472623
-18: Fraction: numerator = 8303, denominator = 9458
-Real: 0.8778811588073588
-19: Fraction: numerator = 7264, denominator = 8453
-Real: 0.8593398793327812
+0: Fraction: numerator = 447, denominator = 2670
+Real: 0.16741573033707866
+1: Fraction: numerator = 831, denominator = 3765
+Real: 0.22071713147410357
+2: Fraction: numerator = 892, denominator = 3685
+Real: 0.24206241519674354
+3: Fraction: numerator = 1682, denominator = 6806
+Real: 0.24713488098736408
+4: Fraction: numerator = 1231, denominator = 4956
+Real: 0.2483857949959645
+5: Fraction: numerator = 2277, denominator = 8944
+Real: 0.2545840787119857
+6: Fraction: numerator = 3186, denominator = 7334
+Real: 0.4344150531769839
+7: Fraction: numerator = 2224, denominator = 4849
+Real: 0.45865126830274283
+8: Fraction: numerator = 1593, denominator = 3368
+Real: 0.4729809976247031
+9: Fraction: numerator = 5887, denominator = 9928
+Real: 0.592969379532635
+10: Fraction: numerator = 5778, denominator = 9605
+Real: 0.6015616866215513
+11: Fraction: numerator = 3200, denominator = 3656
+Real: 0.87527352297593
+12: Fraction: numerator = 6573, denominator = 1612
+Real: 4.077543424317618
+13: Fraction: numerator = 2816, denominator = 414
+Real: 6.8019323671497585
+14: Fraction: numerator = 8512, denominator = 708
+Real: 12.022598870056497
+15: Fraction: numerator = 8327, denominator = 494
+Real: 16.856275303643724
+16: Complex: d = 2207, i = 1015
+Real: 2429.2126296394886
+17: Polar: angle = 8597, x = 2507, y = 1861
+Real: 3122.2379793987516
+18: Complex: d = 2645, i = 2262
+Real: 3480.325990478478
+19: Polar: angle = 5303, x = 2426, y = 3311
+Real: 4104.655527568665
+20: Complex: d = 2769, i = 3258
+Real: 4275.736778614886
+21: Complex: d = 1666, i = 4345
+Real: 4653.448291321179
+22: Complex: d = 1056, i = 4732
+Real: 4848.397673458728
+23: Polar: angle = 3648, x = 4978, y = 833
+Real: 5047.214380229951
+24: Polar: angle = 793, x = 995, y = 5199
+Real: 5293.3567799648645
+25: Complex: d = 4870, i = 2238
+Real: 5359.621628436097
+26: Complex: d = 2801, i = 4852
+Real: 5602.455265327872
+27: Polar: angle = 2694, x = 36, y = 5833
+Real: 5833.111091004525
+28: Polar: angle = 3991, x = 4321, y = 4472
+Real: 6218.506653530251
+29: Polar: angle = 1575, x = 6141, y = 1703
+Real: 6372.761567797747
+30: Complex: d = 7027, i = 934
+Real: 7088.799968965128
+31: Complex: d = 2702, i = 7404
+Real: 7881.625466869128
+32: Complex: d = 4059, i = 6772
+Real: 7895.281185619674
+33: Polar: angle = 7237, x = 4616, y = 6726
+Real: 8157.605776206644
+34: Polar: angle = 1584, x = 3733, y = 7276
+Real: 8177.742047778225
+35: Complex: d = 3976, i = 7219
+Real: 8241.513028564597
+36: Polar: angle = 9460, x = 669, y = 8640
+Real: 8665.86181519184
+37: Complex: d = 2796, i = 8320
+Real: 8777.244214444532
+38: Polar: angle = 4384, x = 2682, y = 8386
+Real: 8804.437517524899
+39: Polar: angle = 6866, x = 1710, y = 9178
+Real: 9335.940445397026
+40: Polar: angle = 1342, x = 8111, y = 4796
+Real: 9422.841238182888
+41: Complex: d = 7232, i = 6074
+Real: 9444.326339130812
+42: Complex: d = 7327, i = 6480
+Real: 9781.376641352688
+43: Polar: angle = 3379, x = 8717, y = 4534
+Real: 9825.642218196223
+44: Complex: d = 9897, i = 2236
+Real: 10146.442972786079
+45: Polar: angle = 2885, x = 8655, y = 6635
+Real: 10905.606356365519
+46: Polar: angle = 6703, x = 5316, y = 9572
+Real: 10949.111379468199
+47: Complex: d = 6495, i = 9071
+Real: 11156.525713679865
+48: Polar: angle = 3253, x = 6775, y = 9296
+Real: 11502.879682931574
+49: Complex: d = 9963, i = 8881
+Real: 13346.667374292356

@@ -1,23 +1,23 @@
 Container:
 Number of elements: 10
 Elements:
-0: Polar: angle = 5638, x = 5774, y = 9358
-Real: 10995.964714385
-1: Complex: d = 8956, i = 5690
-Real: 10610.65671860135
-2: Polar: angle = 2403, x = 3381, y = 7402
-Real: 8137.614208107927
-3: Polar: angle = 1166, x = 6158, y = 40
-Real: 6158.129910938872
-4: Polar: angle = 4965, x = 3842, y = 4747
-Real: 6106.961028203799
-5: Complex: d = 5386, i = 872
-Real: 5456.132329773536
-6: Complex: d = 2473, i = 472
-Real: 2517.640363515012
-7: Fraction: numerator = 8152, denominator = 9676
-Real: 0.8424968995452666
-8: Fraction: numerator = 4538, denominator = 6831
-Real: 0.6643244034548382
-9: Fraction: numerator = 393, denominator = 5534
-Real: 0.07101554029634984
+0: Fraction: numerator = 1927, denominator = 7181
+Real: 0.2683470268764796
+1: Fraction: numerator = 6983, denominator = 6165
+Real: 1.1326845093268452
+2: Fraction: numerator = 9606, denominator = 2357
+Real: 4.075519728468392
+3: Complex: d = 742, i = 906
+Real: 1171.067888723792
+4: Complex: d = 3625, i = 3964
+Real: 5371.584589299511
+5: Polar: angle = 9530, x = 1610, y = 6220
+Real: 6424.990272366177
+6: Complex: d = 4541, i = 4919
+Real: 6694.568096598913
+7: Polar: angle = 2872, x = 302, y = 7151
+Real: 7157.374169344509
+8: Polar: angle = 178, x = 8955, y = 55
+Real: 8955.168898463055
+9: Polar: angle = 7551, x = 752, y = 9588
+Real: 9617.444982946354
